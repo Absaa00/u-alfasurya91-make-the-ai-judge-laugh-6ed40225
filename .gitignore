@@ -1,0 +1,14 @@
+# Judge-laugh entry — local junk only, never the entry itself
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.bundle-work/
+bundle*.tar.gz
+output/
+.DS_Store
+Thumbs.db
+# keep the joke file out of stray editor backups
+*~
+*.swp
